@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and credentials
+.env
+users_credentials.txt
+*.pem
+*.key
+
+# Recordings and customer data
+*.wav
+*.mp3
+*.m4a
+recordings/
+AgentAssistEvidence/
+Lenovo_CEC_Master_Vault/
+
+# Local application data
+*.log
+.DS_Store
