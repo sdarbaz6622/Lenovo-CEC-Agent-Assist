@@ -4,7 +4,7 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-
+users_credentials.txt
 # Secrets and credentials
 .env
 users_credentials.txt
